@@ -8,6 +8,13 @@ package psJava1;
  *
  */
 
+class Node {
+	
+	int iNumber;
+	Node left;
+	Node right;
+}
+
 
 
 public class PSJava1 {
