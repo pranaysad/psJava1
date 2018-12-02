@@ -13,7 +13,15 @@ class Node {
 	int iNumber;
 	Node left;
 	Node right;
+	
+	Node(int iNum) {
+		iNumber = iNum;
+	}
+	
+	
 }
+
+
 
 
 
